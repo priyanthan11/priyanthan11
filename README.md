@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyanthan11
+- 👋 Hi, I’m @priyanthan
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++ at the same time UNREAL ENGINE
 - 💞️ I’m looking to collaborate on Game Developers 
